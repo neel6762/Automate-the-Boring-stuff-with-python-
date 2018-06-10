@@ -1,3 +1,3 @@
-# Regex-Search-Automate-the-Boring-stuff-with-python-
+# Automate-the-Boring-stuff-with-python-
 
 
