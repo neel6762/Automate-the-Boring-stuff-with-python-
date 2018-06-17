@@ -1,3 +1,4 @@
+# run from the command prompt and pass the name of the product you want to get the review
 import requests, bs4, webbrowser, sys
 
 # get the input from the command line, name of the product to get review and download the requested page
